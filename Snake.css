@@ -1,0 +1,16 @@
+#main{
+    width:500px ;
+    height: 500px;
+    background-color: rgb(175, 168, 157);
+    margin: 0 auto;
+    border: 3px solid rgb(2, 2, 147);
+    position: relative;
+}
+.head{
+    width:30px ;
+    height: 30px;
+    background-color:greenyellow;
+    border-radius: 100%;
+    position: absolute;
+    box-shadow:0 0 9px  greenyellow ; 
+}
